@@ -170,7 +170,6 @@ def surface_visualizations(pdb_file, output_dir, protein_color, ligand_color, re
         cmd.set('shininess', 200)
         cmd.set('ray_shadow', 1)
         cmd.set('antialias', 4)
-        #cmd.set("surface_quality", 4)
 
         cmd.select("focus_region", "ligand or hb_residues")
         cmd.orient("focus_region")
@@ -187,4 +186,5 @@ def surface_visualizations(pdb_file, output_dir, protein_color, ligand_color, re
         return output_overview_image, surface_session_file
     
     finally:
+
         cmd.delete('all')
