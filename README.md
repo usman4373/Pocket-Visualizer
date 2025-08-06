@@ -20,6 +20,12 @@ c). Interacting residues
 
 This tool is ideal for analyzing docking results and gaining insights into molecular interactions in drug discovery workflows.
 
+## **📚 Citation**
+
+If you use Pocket Visualizer in your research, presentations, or publications, please consider citing it to acknowledge the effort behind its development.
+
+Pocket Visualizer. GitHub. [https://github.com/usman4373/Pocket-Visualizer](https://github.com/usman4373/Pocket-Visualizer)
+
 ## **🛠** **Installation**
 
 To run Pocket Visualizer, you need to have the following Python packages installed:
