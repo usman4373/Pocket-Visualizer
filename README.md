@@ -1,5 +1,5 @@
 # Pocket-Visualizer
-🧬 Pocket Visualizer is a Streamlit-powered tool that highlights hydrogen bond interactions in docked protein-ligand complexes and automatically identifies the interacting protein residues.
+🧬 Pocket Visualizer is a Streamlit-powered workflow that highlights hydrogen bond interactions in docked protein-ligand complexes and automatically identifies the interacting protein residues.
 
 It leverages PyMOL for high-quality molecular visualization, operating entirely through PyMOL command-line functions, without requiring the PyMOL GUI, to efficiently render and generate publication-ready figures.
 Designed for fast-paced workflows, it enables quick, automated analysis of large numbers of complexes with minimal user intervention.
